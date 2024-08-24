@@ -1,6 +1,10 @@
 # action.yml
 name: 'infinit GitHub Action'
 description: 'Run a command in infinit GitHub Action'
+author: 'support-infinit'
+branding:
+  icon: 'terminal'
+  color: 'black'
 inputs:
   image:
     description: 'Image'
